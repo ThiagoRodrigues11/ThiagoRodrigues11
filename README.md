@@ -37,7 +37,7 @@ Engenheiro de software na **Vector FIDC**, construindo a plataforma interna de o
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animation.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D de contribuições" />
 </picture>
 
