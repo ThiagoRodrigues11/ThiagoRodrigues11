@@ -46,18 +46,6 @@ Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da platafo
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php,laravel,nodejs,express,react,ts,js,vue,mysql,postgres,sqlite,redis,docker,nginx,git&perline=9" alt="Tecnologias" />
 </p>
 
-### Sequência de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoRodrigues11&locale=pt_BR&hide_border=true&border_radius=10&background=0D1117&stroke=5B21B6&ring=A855F7&fire=C084FC&currStreakNum=F3E8FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=A78BFA&dates=8B7AA8" alt="Sequência de contribuições" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoRodrigues11/ThiagoRodrigues11/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoRodrigues11/ThiagoRodrigues11/output/snake-light.svg" />
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/ThiagoRodrigues11/ThiagoRodrigues11/output/snake-dark.svg" />
-</picture>
-
 ### Projetos de estudo
 
 O código do trabalho é privado. Estes são projetos pessoais e de estudo:
