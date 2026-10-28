@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e293b,100:dc2626&height=190&section=header&text=Thiago%20Rodrigues&fontColor=f8fafc&fontSize=44&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descAlignY=56&descSize=17&animation=fadeIn" alt="Thiago Rodrigues" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e293b,100:dc2626&height=190&section=header&text=Thiago%20Taroco&fontColor=f8fafc&fontSize=44&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descAlignY=56&descSize=17&animation=fadeIn" alt="Thiago Taroco" width="100%" />
 </p>
 
 <p align="center">
