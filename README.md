@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=620&lines=Construindo+plataformas+de+cr%C3%A9dito;FastAPI+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+MySQL;Integra%C3%A7%C3%B5es%2C+automa%C3%A7%C3%B5es+e+pain%C3%A9is+de+dados;Do+Nordeste+para+o+mercado+de+FIDCs" alt="Construindo plataformas de crédito" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+na+Vector+FIDC;FastAPI+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+MySQL;Integra%C3%A7%C3%B5es%2C+automa%C3%A7%C3%B5es+e+pain%C3%A9is+de+dados;Do+Nordeste+para+o+mercado+de+FIDCs" alt="Construindo plataformas de crédito" />
 </p>
 
 <p align="center">
@@ -21,16 +21,11 @@
 
 ### Agora
 
-Engenheiro de software na **Vector FIDC**, construindo a plataforma interna de operações de crédito: um monorepo com API em **FastAPI** e front-end em **React + TypeScript**.
-
-- Fluxo de análise e aprovação de cedentes e sacados, com permissões por perfil
-- Portal de financiamento para parceiros: propostas, documentos e contratos
-- Integrações com bureaus de crédito e com o sistema de recebíveis
-- Dashboards de carteira, borderôs e vencidos
+Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da plataforma interna da empresa, do back-end ao front-end, com **FastAPI** e **React + TypeScript**.
 
 ### Antes
 
-**Nóbrega Confecções**: ERP em Laravel (pedidos, produção, estoque e PDV) e rastreamento de pedidos em tempo real para os clientes.
+**Nóbrega Confecções**: desenvolvimento de sistemas internos com Laravel.
 
 </td>
 <td width="48%" valign="top">
