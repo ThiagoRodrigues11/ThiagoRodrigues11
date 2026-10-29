@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+na+Vector+FIDC;FastAPI+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+MySQL;Integra%C3%A7%C3%B5es%2C+automa%C3%A7%C3%B5es+e+pain%C3%A9is+de+dados;Do+Nordeste+para+o+mercado+de+FIDCs" alt="Construindo plataformas de crédito" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+na+Vector+FIDC;FastAPI+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+MySQL;Integra%C3%A7%C3%B5es%2C+automa%C3%A7%C3%B5es+e+pain%C3%A9is+de+dados;Do+back-end+ao+front-end%2C+ponta+a+ponta" alt="Thiago Taroco - Desenvolvedor Full Stack" />
 </p>
 
 <p align="center">
