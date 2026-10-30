@@ -40,6 +40,10 @@ Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da platafo
 </tr>
 </table>
 
+<p align="center">
+  <img src="./activity-graph.svg" alt="Atividade nos últimos 30 dias" width="100%" />
+</p>
+
 ### Tecnologias
 
 <p align="center">

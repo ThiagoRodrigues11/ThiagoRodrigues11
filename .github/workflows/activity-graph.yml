@@ -1,0 +1,29 @@
+# Gráfico roxo de atividade (últimos 30 dias), gerado no próprio repositório, todo dia.
+name: Gráfico de atividade
+
+on:
+  schedule:
+    - cron: "15 9 * * *"   # 06h15 de Maceió
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gera o gráfico
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUT: activity-graph.svg
+        run: python3 .github/scripts/activity_graph.py
+      - name: Publica se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git diff --cached --quiet || (git commit -m "Update activity graph" && git push)
