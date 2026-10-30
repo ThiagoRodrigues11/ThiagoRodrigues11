@@ -21,7 +21,7 @@
 
 ### Agora
 
-Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da plataforma interna da empresa, do back-end ao front-end, com **FastAPI** e **React + TypeScript**.
+Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da plataforma interna da empresa, do back-end ao front-end, com **Python (FastAPI)** e **React + TypeScript**.
 
 ### Antes
 
@@ -39,10 +39,6 @@ Engenheiro de software na **Vector FIDC**, atuando no desenvolvimento da platafo
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="./activity-graph.svg" alt="Atividade nos últimos 30 dias" width="100%" />
-</p>
 
 ### Tecnologias
 
